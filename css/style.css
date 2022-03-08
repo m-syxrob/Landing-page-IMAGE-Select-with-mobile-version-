@@ -1,0 +1,65 @@
+.cantainer {
+    max-width: 1440px;
+    position: relative;
+}
+.row {
+    width: 1380px;
+    margin: 0 auto;
+    font-family: Montserrat;
+}
+a {
+    text-decoration: none;
+    color: #8C8C8C;
+}
+.main1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+nav a{
+    padding: 0 50px;
+}
+.cart {
+    border: 3mm solid #FFF6EE;
+    border-radius: 30px;
+    background: #FFF6EE;
+}
+.nav {
+    flex-wrap: wrap;    
+}
+.main2 a{
+    text-decoration: underline;
+}
+.hause {
+    padding: 20px 0;
+}
+hr {
+    margin-bottom: 0;
+}
+.headbanner img{
+    width: 1380px;
+}
+.search h1 {
+    color: ;
+}
+.btn {
+    display: flex;
+    flex-wrap: wrap;
+}
+.search {
+    margin: auto 15.55%;
+    position: absolute;
+    top: 20%;
+    
+}
+.btn input {
+    width: 680px;
+    height: 40px;
+}
+.headbtn {
+    border: 3mm solid #FF4D00;
+    background: #FF4D00;
+    align-items: center;
+    color: #fff;
+}
